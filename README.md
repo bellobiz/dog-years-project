@@ -21,7 +21,7 @@ Task
 
 1. Create a variable named `myAge`, and set it equal to your age as a number.
 
-> Write a comment that explains this line of code.
+> **Write a comment that explains this line of code**.
 
 2. Create a variable named `earlyYears` and save the value `2` to it. Note, the value saved to this variable will change.
 
