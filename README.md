@@ -61,7 +61,7 @@ Task
 My name is NAME. I am HUMAN AGE years old in human years which is DOG AGE years old in dog years.
 ```
 
-+ Replace `NAME` with `myName`, `HUMAN AGE` with `myAge`, and `DOG AGE` with `myAgeInDogYears` in the sentence above.
+> Replace `NAME` with `myName`, `HUMAN AGE` with `myAge`, and `DOG AGE` with `myAgeInDogYears` in the sentence above.
 
 > Write a comment that explains this line of code.
 
