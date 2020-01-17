@@ -53,7 +53,7 @@ Task
 
    - The `toLowerCase` method returns a string with all lowercase letters.
 
-  - Write a comment that explains this line of code.
+   - Write a comment that explains this line of code.
 
 9. Write a `console.log` statement that displays your name and age in dog years. Use string interpolation to display the value in the following sentence:
 
@@ -61,9 +61,9 @@ Task
 My name is NAME. I am HUMAN AGE years old in human years which is DOG AGE years old in dog years.
 ```
 
- - Replace `NAME` with `myName`, `HUMAN AGE` with `myAge`, and `DOG AGE` with `myAgeInDogYears` in the sentence above.
+   - Replace `NAME` with `myName`, `HUMAN AGE` with `myAge`, and `DOG AGE` with `myAgeInDogYears` in the sentence above.
 
- - Write a comment that explains this line of code**.
+   - Write a comment that explains this line of code**.
 
 10. Great work! You can convert any human age to dog years. Try changing `myAge` and see what happens.
 
