@@ -16,7 +16,7 @@ Before you start doing the math in your head, let a computer take care of it! Wi
 If you get stuck during this project or would like to see an experienced developer work through it, click **"Get Help"** to see a **project walkthrough video**.
 
 ```
-Task
+**Task**
 ```
 
 1. Create a variable named `myAge`, and set it equal to your age as a number.
